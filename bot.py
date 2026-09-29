@@ -11,9 +11,9 @@ intents.message_content = True
 client = discord.Client(intents=intents)
 
 # ------------------- [ المعرفات IDs ] -------------------
-VALUE_CHANNEL_ID = 1336771401236602930
-VALUE_BOT_ID = 107395052914056074
-STORE_CHANNEL_ID = 0  # ⚠️ حط ID روم المتجر هون
+VALUE_CHANNEL_ID = 1536711401236602930
+VALUE_BOT_ID = 1073950529140568074
+STORE_CHANNEL_ID = 1548083461859049602  # ⚠️ حط ID روم المتجر هون
 
 # ------------------- [ كليشة الفاليو ] -------------------
 REPLY_MESSAGE = """╭─── 💡 **معرفة أسعار الفواكه والجيم باسات** ───╮
